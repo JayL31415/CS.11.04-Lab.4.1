@@ -2,8 +2,7 @@ import java.util.jar.JarOutputStream;
 
 public class Main {
 
-    public static void main(String[] args) {
-        System.out.println("Hey");
+
     }
     // 1. parenthesesCheck
     public static boolean parenthesesCheck(String str) {
